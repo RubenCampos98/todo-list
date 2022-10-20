@@ -8,8 +8,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Description
 
-App where we can add tasks, marked them when done and delete them!
+App where we can add tasks, marked them when done and delete them aswell!
 
-##Check it out!
+## Check it out!
 
 https://rubencampos98.github.io/todo-list/
